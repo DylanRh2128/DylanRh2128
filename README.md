@@ -1,4 +1,4 @@
-## Hola, soy Dylan Rios 👋
+## Hola, soy Dylan Rios
 
 Desarrollador de software en Medellín, Colombia. Automatizo procesos de negocio de punta a punta: robots RPA, bots transaccionales y generativos con n8n, integraciones entre sistemas y aplicaciones web, desde el análisis del proceso hasta el despliegue en producción.
 
