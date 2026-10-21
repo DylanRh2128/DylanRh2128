@@ -15,7 +15,7 @@ Desarrollador de software en Medellín, Colombia. Automatizo procesos de negocio
 | --- | --- | --- |
 | Robot RPA para sector salud | Procesa citas y órdenes clínicas en un EMR con varios robots en paralelo | UiPath · PostgreSQL · iText7 |
 | Dashboard de monitoreo RPA | Carga de lotes, KPIs y errores de los robots en tiempo real | Node.js · Vue 3 · PostgreSQL · Docker |
-| Bots transaccionales y generativos para IPS | Agendamiento, confirmación y cancelación de citas | n8n · C# · .NET · REST/SOAP · SQL Server |
+| Bots transaccionales y generativos | Agendamiento, confirmación y cancelación de citas | n8n · C# · .NET · REST/SOAP · SQL Server |
 | Gestión para 3 empresas | Contabilidad por sede, caja, nómina, pedidos y despachos | React · TypeScript · Fastify · PostgreSQL |
 | Caja POS de escritorio | Ventas y domicilios sin depender de internet | .NET 8 · Blazor Hybrid · EF Core · GitHub Actions |
 
